@@ -1,0 +1,15 @@
+Home Page:
+Current Screen:
+   AccountMenuButtonXPATH: "//XCUIElementTypeImage[@name='Account']"
+   MyprofileButtonXPATH: "//XCUIElementTypeImage[contains(@name,'My Profile')]"
+New Feature:
+   AddaddressButtonXPATH: "//*[contains(@name,'Add Address')]"
+My address:
+   NameTextBoxXPATH: "//*[contains(@name,'Name*')]"
+   MobileNoTextBoxXPATH: "//*[contains(@name,'Mobile No.*')]"
+   PINCODETextBoxXPATH: "//*[contains(@name,'PIN Code*')]"
+   AddressTextBoxXPATH: "//*[contains(@name,'Area')]"
+   WorkButtonXPATH: "//*[contains(@name,'Work')]"
+   AddnewaddressButtonXPATH: "//*[contains(@name,'ADD ADDRESS')]"
+   DeleteButtonXPATH: "(//*[@type='XCUIElementTypeImage'])[11]"
+   yesButtonXPATH: "//*[contains(@name,'YES')]"

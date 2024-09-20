@@ -1,0 +1,45 @@
+<ApplicationSettings>
+    <URL>https://www.algoshack.com/</URL>
+    <BrowserType>Chrome</BrowserType>
+    <EnableDebugLog>False</EnableDebugLog>
+    <SoftAssertion>False</SoftAssertion>
+    <EnableScrenshotForSucess>True</EnableScrenshotForSucess>
+    <EnableScrenshotForFailure>True</EnableScrenshotForFailure>
+    <EnableScrenshotForAllSteps>False</EnableScrenshotForAllSteps>
+    <EnableVideoCaptureForSucess>False</EnableVideoCaptureForSucess>
+    <EnableSeprateFailureReport>False</EnableSeprateFailureReport>
+    <QueuingForTestcases>False</QueuingForTestcases>
+    <ParallelExecution>False</ParallelExecution>
+    <EnableCompareImage>False</EnableCompareImage>
+    <MaximumTimeInSecondsToWaitForControl>5</MaximumTimeInSecondsToWaitForControl>
+    <MaximumTimeInMilliSecondsToWaitForPage>15</MaximumTimeInMilliSecondsToWaitForPage>
+    <TimeIntervalInMilliSecondsToWaitForPage>500</TimeIntervalInMilliSecondsToWaitForPage>
+    <ExtraCapability/>
+    <automationName>uiautomator2</automationName>
+    <deviceName>generic_x86</deviceName>
+    <udid>emulator-5554</udid>
+    <platformName>Android</platformName>
+    <platformVersion>9.0</platformVersion>
+    <browserName>chrome</browserName>
+    <appPackage/>
+    <appActivity/>
+    <xcodeOrgId/>
+    <xcodeSigningId>iPhone Developer</xcodeSigningId>
+    <bundleId/>
+    <mobileAutomationType>Android app</mobileAutomationType>
+    <autType>Mobile Automation</autType>
+    <RemoteUrl>http://127.0.0.1:4723/wd/hub</RemoteUrl>
+    <udidTemp/>
+    <RemoteUrlTemp/>
+    <DeviceNameTemp/>
+    <DeviceVersionTemp/>
+    <KobitonApp/>
+    <ReportFolder>Temp</ReportFolder>
+    <TestStatusForEmailAlert>Passed</TestStatusForEmailAlert>
+    <isRealMobile>False</isRealMobile>
+    <LT_USERNAME/>
+    <LT_ACCESS_KEY/>
+    <lambdaTestAppKey/>
+    <browserversion/>
+    <testEnvironment>default</testEnvironment>
+</ApplicationSettings>
